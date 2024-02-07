@@ -90,7 +90,7 @@ nvim -c ":h key-notation"
 | 上一個相同字元 | `N` | kbd:[F]/kbd:[T]/kbd:[;]
 | 下一個相同字元 | `N` | kbd:[f]/kbd:[t]/kbd:[,]
 
-| 下個函式開始 | `N` | kbd:[\]\[]"
+| 下個函式開始 | `N` | kbd:[\]]"
 |===
 
 .nvim-tree
