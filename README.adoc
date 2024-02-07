@@ -1,4 +1,6 @@
 = README
+:experimental:
+:toc: Right
 
 == Mode
 
